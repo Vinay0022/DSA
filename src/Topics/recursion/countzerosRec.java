@@ -1,4 +1,4 @@
-package Topics;
+package Topics.recursion;
 
 public class countzerosRec {
 public static void main(String[] args) {
