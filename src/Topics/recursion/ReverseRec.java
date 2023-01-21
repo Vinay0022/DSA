@@ -1,4 +1,4 @@
-package Topics;
+package Topics.recursion;
 
 public class ReverseRec {
   // Way 1 for solving the question

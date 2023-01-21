@@ -1,4 +1,4 @@
-package codechef;
+
 
 public class ErenneedsWood {
  public static void main(String[] args) {
