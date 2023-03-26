@@ -18,7 +18,6 @@ public class x1542A {
       st = new StringTokenizer(infile.readLine());
       int N = Integer.parseInt(st.nextToken());
       int[] arr = readArr(N + 2, infile, st);
-       
     }
   }
 }
