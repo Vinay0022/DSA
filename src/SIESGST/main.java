@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Main {
+class main {
   Scanner input = new Scanner(System.in);
   int ans ;
   int product;
@@ -31,7 +31,7 @@ class Main {
   }
 
   public static void main(String[] args) {
-    Main obj = new Main();
+    main obj = new main();
     obj.incomp();
 
   }
