@@ -1,8 +1,6 @@
-package com.mycompany.app;
+package Leetcode;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 public class LC540{
   public static void main(String[] args) {
