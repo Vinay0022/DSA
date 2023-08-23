@@ -1,7 +1,5 @@
+package Practise;
 
-import java.util.*;
-import java.io.*;
-import java.math.*;
 
 /**
  * Auto-generated code below aims at helping you parse
@@ -10,11 +8,13 @@ import java.math.*;
 class Main{
 
     public static void main(String args[]) {
-        Scanner in = new Scanner(System.in);
-        String str = in.nextLine();
-       String str2 =str.concat(str);
-System.out.println(str2);
-     
+    String str1 = "Suckss";
+    String str2 =str1 ;
+    System.out.println(str1);
+    System.out.println(str2);
+    str1.concat("suckkkk");
+    System.out.println(str1);
+    System.out.println(str2);
     }
 }
 
