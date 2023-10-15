@@ -1,5 +1,5 @@
 import java.util.*;
-public class nothing {
+public class minimumCost {
     public static void main(String[] args) {
         String s = "outwyu";
         //vowels = o u u= 3
